@@ -2,7 +2,7 @@
   "name": "eslint-config-nuecho",
   "version": "0.1.0",
   "description": "",
-  "author": "",
+  "author": "Nu Echo Inc.",
   "main": "index.js",
   "files": [
     "index.js"
